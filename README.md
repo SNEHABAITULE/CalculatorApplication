@@ -21,6 +21,6 @@ Supports basic arithmetic functions along with square, square-root, reciprocal, 
 
 -> Java
 -> Java Swing
--> NnetBeans IDE
+-> NetBeans IDE
  
 
